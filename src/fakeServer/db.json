@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "user": {
+        "id": 123,
+        "firstName": "Serg",
+        "secondName": "Petrov",
+        "email": "petrov-dev@gmail.com",
+        "password": "0123456789",
+        "gender": "Male"
+      }
+    },
+    {
+      "user": {
+        "id": 234,
+        "firstName": "Pasha",
+        "secondName": "Vorlamov",
+        "email": "Vorlamov@gmail.com",
+        "password": "987654321",
+        "gender": "Male"
+      }
+    },
+    {
+      "user": {
+        "id": 345,
+        "firstName": "Alex",
+        "secondName": "Onipov",
+        "email": "onipov@gmail.com",
+        "password": "1234567",
+        "gender": "Male"
+      }
+    },
+    {
+      "user": {
+        "id": 456,
+        "firstName": "Ann",
+        "secondName": "Ivanenko",
+        "email": "ann@gmail.com",
+        "password": "12tgif567",
+        "gender": "Female"
+      }
+    },
+    {
+      "id": 1589785137142,
+      "firstName": "Sergey",
+      "secondName": "saaaaaaaaaaaaaa",
+      "email": "allmoons94@gmail.com",
+      "password": "dsfsdf4fF",
+      "gender": "Male",
+      "addTime": "2020-05-18T06:58:56.817Z"
+    }
+  ]
+}
