@@ -12,7 +12,7 @@
     "bootstrap": "^4.4.1",
     "cross-fetch": "^3.0.4",
     "jsonwebtoken": "^8.5.1",
-    "jsrsasign": "^8.0.15",
+    "jsrsasign": "^10.2.0",
     "node-sass": "^4.13.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
